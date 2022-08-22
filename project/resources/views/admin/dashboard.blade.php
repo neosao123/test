@@ -54,6 +54,18 @@
 			</div>
 		</div>
 	</div>
+	<div class="col-sm-12 col-lg-3">
+		<div class="card bg-orange text-white">
+			<div class="card-body">
+				<div class="d-flex align-items-center">
+					<div class="m-r-10">
+						<span>Stock Companies</span>
+						<h4 id="nsestock">--</h4>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 		<!-- column -->
 	<div class="col-sm-12 col-lg-3">
 		<div class="card text-white" style="background-color:rgb(76, 175, 80);">
